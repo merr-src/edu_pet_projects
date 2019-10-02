@@ -1,4 +1,4 @@
-McD=0_SB=1;Category;Kind;Item;Energy(kcal);Fat(g);Carbohydrates(g);Fiber(g);Protein(g);Sodium (g)
+McD=0_SB=1;Category;Kind;Item;Energy(kcal);Fat(g);Carbohydrates(g);Fiber(g);Protein(g);Sodium(g)
 1;food;Bakery;Chonga Bagel;300;5;50;3;12;0.53
 1;food;Bakery;8-Grain Roll;380;6;70;7;10;0.43
 1;food;Bakery;Almond Croissant;410;22;45;3;10;0.39
@@ -124,8 +124,6 @@ McD=0_SB=1;Category;Kind;Item;Energy(kcal);Fat(g);Carbohydrates(g);Fiber(g);Prot
 1;food;Snacks & Sweets - Fruit & Nuts;Peter Rabbit Organics - Apple & Grape;100;0;26;1;9;0.01
 1;food;Snacks & Sweets - Fruit & Nuts;Peter Rabbit Organics - Strawberry Banana;80;0;18;2;1;0
 1;food;Snacks & Sweets - Fruit & Nuts;Strawberry Bear YoYos;60;0;13;2;0;0
-1;food;Snacks & Sweets - Gum & Mints;Peppermint Gum;5;0;2;0;0;0
-1;food;Snacks & Sweets - Gum & Mints;Peppermint Mints;5;0;2;0;0;0
 1;food;Snacks & Sweets - Popcorn & Chips;Tortilla Chips;310;19;32;3;3;0.32
 1;food;Snacks & Sweets - Popcorn & Chips;BBQ Chips;270;13;35;2;5;0.41
 1;food;Snacks & Sweets - Popcorn & Chips;Butter Gourmet Popcorn;150;7;18;3;2;0.24

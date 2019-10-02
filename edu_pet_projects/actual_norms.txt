@@ -1,7 +1,7 @@
 Item,Unisex_14_18
 Energy(kcal),2900
-Protein(mg),87000
-Fat(mg),97000
-Carbohydrates(mg),421000
-Fiber(mg),20000
-Sodium(mg),1300
+Fat(g),97
+Carbohydrates(g),421
+Fiber(g),20
+Protein(g),87
+Sodium(g),1.3
