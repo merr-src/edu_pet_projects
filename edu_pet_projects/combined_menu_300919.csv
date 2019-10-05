@@ -35,19 +35,19 @@ McD=0_SB=1;Category;Kind;Item;Energy(kcal);Fat(g);Carbohydrates(g);Fiber(g);Prot
 1;food;Bakery;The Classic - Bantam Bagels (2 Pack);200;8;28;0;6;0.27
 1;food;Salads;Cage-Free Eggs & Seasoned Grains Side Salad;360;18;33;3;17;0.46
 1;food;Salads;Cauliflower Tabbouleh Side Salad;130;12;7;3;2;0.52
-1;food;Lunch/Cold Sandwiches;Chicken & Fig Spread;460;13;61;5;24;0.94
-1;food;Lunch/Cold Sandwiches;Chipotle Chicken Wrap;470;19;55;4;22;1.05
+1;food;Cold Sandwiches;Chicken & Fig Spread;460;13;61;5;24;0.94
+1;food;Cold Sandwiches;Chipotle Chicken Wrap;470;19;55;4;22;1.05
 1;food;Protein Boxes & Bowls;Farmers' Market Protein Box;470;29;29;4;21;0.88
 1;food;Salads;Garden Greens & Shaved Parmesan Side Salad;170;13;9;2;7;0.6
-1;food;Lunch/Warm Sandwiches;Grilled Chicken & Cauliflower Tabbouleh;390;27;15;4;21;1.14
-1;food;Lunch/Warm Sandwiches;Honey BBQ Sriracha Chicken Sandwich;360;7;52;3;22;1.09
+1;food;Warm Sandwiches;Grilled Chicken & Cauliflower Tabbouleh;390;27;15;4;21;1.14
+1;food;Warm Sandwiches;Honey BBQ Sriracha Chicken Sandwich;360;7;52;3;22;1.09
 1;food;Salads;Roasted Carrot & Kale Side Salad;440;26;44;7;10;0.4
-1;food;Lunch/Cold Sandwiches;Roasted Turkey & Dill Havarti Sandwich;600;32;47;6;32;0.86
-1;food;Lunch/Warm Sandwiches;Seasoned Turkey & Green Pepper Pico;390;18;30;5;28;0.9
-1;food;Lunch/Warm Sandwiches;Smoked Mozzarella & Roasted Pepper Sandwich;500;28;46;4;18;1.19
-1;food;Lunch/Warm Sandwiches;Smoked Pork Cubano;450;25;66;5;21;1.2
+1;food;Cold Sandwiches;Roasted Turkey & Dill Havarti Sandwich;600;32;47;6;32;0.86
+1;food;Warm Sandwiches;Seasoned Turkey & Green Pepper Pico;390;18;30;5;28;0.9
+1;food;Warm Sandwiches;Smoked Mozzarella & Roasted Pepper Sandwich;500;28;46;4;18;1.19
+1;food;Warm Sandwiches;Smoked Pork Cubano;450;25;66;5;21;1.2
 1;food;Yogurt & Custard;Strawberry & Toasted Almonds Overnight Grains;410;24;42;5;7;0.035
-1;food;Lunch/Warm Sandwiches;Turkey Pastrami Reuben;500;21;50;4;26;1.13
+1;food;Warm Sandwiches;Turkey Pastrami Reuben;500;21;50;4;26;1.13
 1;food;Salads;Za'atar Chicken & Lemon Tahini Salad;570;23;67;11;27;0.88
 1;food;Protein Boxes & Bowls;Cheese & Fruit Protein Box;450;27;34;4;20;0.62
 1;food;Protein Boxes & Bowls;Chicken & Quinoa Protein Bowl with Black Beans and Greens;420;17;42;9;27;1.03
@@ -76,14 +76,14 @@ McD=0_SB=1;Category;Kind;Item;Energy(kcal);Fat(g);Carbohydrates(g);Fiber(g);Prot
 1;food;Hot Breakfast;Sous Vide Egg Bites: Ham, Cheddar & Peppers;250;16;11;0;17;0.46
 1;food;Hot Breakfast;Spicy Chorizo, Monterey Jack & Egg Breakfast Sandwich;470;24;36;0;24;0.95
 1;food;Hot Breakfast;Spinach, Feta & Cage Free Egg White Breakfast Wrap;280;8;34;4;20;0.83
-1;food;Lunch/Warm Sandwiches;Baja Black Bean Veggie Wrap;570;22;73;7;21;1.3
-1;food;Lunch/Warm Sandwiches;Chicken & Double-Smoked Bacon;620;26;65;3;31;1.46
-1;food;Lunch/Warm Sandwiches;Chicken Caprese;500;18;58;3;28;0.9
-1;food;Lunch/Warm Sandwiches;Crispy Grilled Cheese Sandwich;540;29;47;4;21;1.06
-1;food;Lunch/Warm Sandwiches;Ham & Swiss Panini;490;24;42;0;25;1.25
-1;food;Lunch/Warm Sandwiches;Tomato & Mozzarella;350;13;42;3;15;0.58
-1;food;Lunch/Warm Sandwiches;Turkey Pesto Panini;560;23;55;3;34;1.19
-1;food;Lunch/Warm Sandwiches;Avocado Spread;90;8;5;4;1;0.21
+1;food;Warm Sandwiches;Baja Black Bean Veggie Wrap;570;22;73;7;21;1.3
+1;food;Warm Sandwiches;Chicken & Double-Smoked Bacon;620;26;65;3;31;1.46
+1;food;Warm Sandwiches;Chicken Caprese;500;18;58;3;28;0.9
+1;food;Warm Sandwiches;Crispy Grilled Cheese Sandwich;540;29;47;4;21;1.06
+1;food;Warm Sandwiches;Ham & Swiss Panini;490;24;42;0;25;1.25
+1;food;Warm Sandwiches;Tomato & Mozzarella;350;13;42;3;15;0.58
+1;food;Warm Sandwiches;Turkey Pesto Panini;560;23;55;3;34;1.19
+1;food;Warm Sandwiches;Avocado Spread;90;8;5;4;1;0.21
 1;food;Yogurt & Custard;Berry Trio Yogurt;240;2.5;39;3;14;0.125
 1;food;Yogurt & Custard;Fresh Blueberries and Honey Greek Yogurt Parfait;240;2.5;42;2;14;0.1
 1;food;Yogurt & Custard;Justin's Chocolate Hazelnut Butter;180;14;12;3;4;0.065
@@ -196,10 +196,10 @@ McD=0_SB=1;Category;Kind;Item;Energy(kcal);Fat(g);Carbohydrates(g);Fiber(g);Prot
 1;drink;Cold Drinks;Starbucks Iced Coffee Light Sweetened;50;0;11;0;1;0
 1;drink;Cold Drinks;Starbucks Iced Coffee Unsweetened;10;0;2;0;1;0
 1;drink;Hot Drinks;Blonde Roast;5;0;0;0;1;0.01
-1;drink;Hot Drinks;CloverÂ Brewed Coffee;10;0;0;0;1;0.01
+1;drink;Hot Drinks;Clover Brewed Coffee;10;0;0;0;1;0.01
 1;drink;Cold Drinks;Cold Brew with Cold Foam;35;0;7;0;2;0.03
 1;drink;Cold Drinks;Cold Brew with Salted Cream Cold Foam;230;14;23;0;2;0.33
-1;drink;Hot Drinks;Decaf Pike PlaceÂ Roast;5;0;0;0;1;0.01
+1;drink;Hot Drinks;Decaf Pike Place Roast;5;0;0;0;1;0.01
 1;drink;Hot Drinks;Featured Dark Roast;5;0;0;0;1;0.01
 1;drink;Cold Drinks;Iced Coffee;5;0;0;0;0;0.005
 1;drink;Cold Drinks;Starbucks Cold Brew Coffee;5;0;0;0;0;0.015
@@ -276,53 +276,53 @@ McD=0_SB=1;Category;Kind;Item;Energy(kcal);Fat(g);Carbohydrates(g);Fiber(g);Prot
 0;food;Hot Breakfast;Big Breakfast with Hotcakes and Egg Whites (Large Biscuit);1050;50;115;7;35;2.29
 0;food;Hot Breakfast;Hotcakes;350;9;60;3;8;0.59
 0;food;Hot Breakfast;Hotcakes and Sausage;520;24;61;3;15;0.93
-0;food;Lunch/Sandwiches/Burgers;Sausage Burrito;300;16;26;1;12;0.79
-0;food;Lunch/Sandwiches/Burgers;Hash Brown;150;9;15;2;1;0.31
-0;food;Lunch/Sandwiches/Burgers;Cinnamon Melts;460;19;66;3;6;0.37
-0;food;Lunch/Sandwiches/Burgers;Fruit & Maple Oatmeal;290;4;58;5;5;0.16
-0;food;Lunch/Sandwiches/Burgers;Fruit & Maple Oatmeal without Brown Sugar;260;4;49;5;5;0.115
-0;food;Lunch/Sandwiches/Burgers;Big Mac;530;27;47;3;24;0.96
-0;food;Lunch/Sandwiches/Burgers;Quarter Pounder with Cheese;520;26;41;3;30;1.1
-0;food;Lunch/Sandwiches/Burgers;Quarter Pounder with Bacon & Cheese;600;29;48;3;37;1.44
-0;food;Lunch/Sandwiches/Burgers;Quarter Pounder with Bacon Habanero Ranch;610;31;46;3;37;1.18
-0;food;Lunch/Sandwiches/Burgers;Quarter Pounder Deluxe;540;27;45;3;29;0.96
-0;food;Lunch/Sandwiches/Burgers;Double Quarter Pounder with Cheese;750;43;42;3;48;1.28
-0;food;Lunch/Sandwiches/Burgers;Hamburger;240;8;32;1;12;0.48
-0;food;Lunch/Sandwiches/Burgers;Cheeseburger;290;11;33;2;15;0.68
-0;food;Lunch/Sandwiches/Burgers;Double Cheeseburger;430;21;35;2;24;1.04
-0;food;Lunch/Sandwiches/Burgers;Bacon Clubhouse Burger;720;40;51;4;39;1.47
-0;food;Lunch/Sandwiches/Burgers;McDouble;380;17;34;2;22;0.84
-0;food;Lunch/Sandwiches/Burgers;Bacon McDouble;440;22;35;2;27;1.11
-0;food;Lunch/Sandwiches/Burgers;Daily Double;430;22;34;2;22;0.76
-0;food;Lunch/Sandwiches/Burgers;Jalapeeo Double;430;23;35;2;22;1.03
-0;food;Lunch/Sandwiches/Burgers;McRib;500;26;44;3;22;0.98
-0;food;Lunch/Sandwiches/Burgers;Premium Crispy Chicken Classic Sandwich;510;22;55;3;24;0.99
-0;food;Lunch/Sandwiches/Burgers;Premium Grilled Chicken Classic Sandwich;350;9;42;3;28;0.82
-0;food;Lunch/Sandwiches/Burgers;Premium Crispy Chicken Club Sandwich;670;33;58;3;36;1.41
-0;food;Lunch/Sandwiches/Burgers;Premium Grilled Chicken Club Sandwich;510;20;44;3;40;1.25
-0;food;Lunch/Sandwiches/Burgers;Premium Crispy Chicken Ranch BLT Sandwich;610;28;57;3;32;1.4
-0;food;Lunch/Sandwiches/Burgers;Premium Grilled Chicken Ranch BLT Sandwich;450;15;43;3;36;1.23
-0;food;Lunch/Sandwiches/Burgers;Bacon Clubhouse Crispy Chicken Sandwich;750;38;65;4;36;1.72
-0;food;Lunch/Sandwiches/Burgers;Bacon Clubhouse Grilled Chicken Sandwich;590;25;51;4;40;1.56
-0;food;Lunch/Sandwiches/Burgers;Southern Style Crispy Chicken Sandwich;430;19;43;2;21;0.91
-0;food;Lunch/Sandwiches/Burgers;McChicken;360;16;40;2;14;0.8
-0;food;Lunch/Sandwiches/Burgers;Bacon Cheddar McChicken;480;24;43;2;22;1.26
-0;food;Lunch/Sandwiches/Burgers;Bacon Buffalo Ranch McChicken;430;21;41;2;20;1.26
-0;food;Lunch/Sandwiches/Burgers;Buffalo Ranch McChicken;360;16;40;2;14;0.99
-0;food;Lunch/Sandwiches/Burgers;Premium McWrap Chicken & Bacon (Crispy Chicken);630;32;56;3;32;1.54
-0;food;Lunch/Sandwiches/Burgers;Premium McWrap Chicken & Bacon (Grilled Chicken);480;19;42;3;36;1.37
-0;food;Lunch/Sandwiches/Burgers;Premium McWrap Chicken & Ranch (Crispy Chicken);610;31;56;3;27;1.34
-0;food;Lunch/Sandwiches/Burgers;Premium McWrap Chicken & Ranch (Grilled Chicken);450;18;42;3;30;1.17
-0;food;Lunch/Sandwiches/Burgers;Premium McWrap Southwest Chicken (Crispy Chicken);670;33;68;5;27;1.48
-0;food;Lunch/Sandwiches/Burgers;Premium McWrap Southwest Chicken (Grilled Chicken);520;20;55;5;31;1.32
-0;food;Lunch/Sandwiches/Burgers;Premium McWrap Chicken Sweet Chili (Crispy Chicken);540;23;61;3;23;1.26
-0;food;Lunch/Sandwiches/Burgers;Premium McWrap Chicken Sweet Chili (Grilled Chicken);380;10;47;3;27;1.09
-0;food;Lunch/Sandwiches/Burgers;Chicken McNuggets (4 piece);190;12;12;1;9;0.36
-0;food;Lunch/Sandwiches/Burgers;Chicken McNuggets (6 piece);280;18;18;1;13;0.54
-0;food;Lunch/Sandwiches/Burgers;Chicken McNuggets (10 piece);470;30;30;2;22;0.9
-0;food;Lunch/Sandwiches/Burgers;Chicken McNuggets (20 piece);940;59;59;3;44;1.8
-0;food;Lunch/Sandwiches/Burgers;Chicken McNuggets (40 piece);1880;118;118;6;87;3.6
-0;food;Lunch/Sandwiches/Burgers;Filet-O-Fish;390;19;39;2;15;0.59
+0;food;Sandwiches/Burgers;Sausage Burrito;300;16;26;1;12;0.79
+0;food;Sandwiches/Burgers;Hash Brown;150;9;15;2;1;0.31
+0;food;Sandwiches/Burgers;Cinnamon Melts;460;19;66;3;6;0.37
+0;food;Sandwiches/Burgers;Fruit & Maple Oatmeal;290;4;58;5;5;0.16
+0;food;Sandwiches/Burgers;Fruit & Maple Oatmeal without Brown Sugar;260;4;49;5;5;0.115
+0;food;Sandwiches/Burgers;Big Mac;530;27;47;3;24;0.96
+0;food;Sandwiches/Burgers;Quarter Pounder with Cheese;520;26;41;3;30;1.1
+0;food;Sandwiches/Burgers;Quarter Pounder with Bacon & Cheese;600;29;48;3;37;1.44
+0;food;Sandwiches/Burgers;Quarter Pounder with Bacon Habanero Ranch;610;31;46;3;37;1.18
+0;food;Sandwiches/Burgers;Quarter Pounder Deluxe;540;27;45;3;29;0.96
+0;food;Sandwiches/Burgers;Double Quarter Pounder with Cheese;750;43;42;3;48;1.28
+0;food;Sandwiches/Burgers;Hamburger;240;8;32;1;12;0.48
+0;food;Sandwiches/Burgers;Cheeseburger;290;11;33;2;15;0.68
+0;food;Sandwiches/Burgers;Double Cheeseburger;430;21;35;2;24;1.04
+0;food;Sandwiches/Burgers;Bacon Clubhouse Burger;720;40;51;4;39;1.47
+0;food;Sandwiches/Burgers;McDouble;380;17;34;2;22;0.84
+0;food;Sandwiches/Burgers;Bacon McDouble;440;22;35;2;27;1.11
+0;food;Sandwiches/Burgers;Daily Double;430;22;34;2;22;0.76
+0;food;Sandwiches/Burgers;Jalapeeo Double;430;23;35;2;22;1.03
+0;food;Sandwiches/Burgers;McRib;500;26;44;3;22;0.98
+0;food;Sandwiches/Burgers;Premium Crispy Chicken Classic Sandwich;510;22;55;3;24;0.99
+0;food;Sandwiches/Burgers;Premium Grilled Chicken Classic Sandwich;350;9;42;3;28;0.82
+0;food;Sandwiches/Burgers;Premium Crispy Chicken Club Sandwich;670;33;58;3;36;1.41
+0;food;Sandwiches/Burgers;Premium Grilled Chicken Club Sandwich;510;20;44;3;40;1.25
+0;food;Sandwiches/Burgers;Premium Crispy Chicken Ranch BLT Sandwich;610;28;57;3;32;1.4
+0;food;Sandwiches/Burgers;Premium Grilled Chicken Ranch BLT Sandwich;450;15;43;3;36;1.23
+0;food;Sandwiches/Burgers;Bacon Clubhouse Crispy Chicken Sandwich;750;38;65;4;36;1.72
+0;food;Sandwiches/Burgers;Bacon Clubhouse Grilled Chicken Sandwich;590;25;51;4;40;1.56
+0;food;Sandwiches/Burgers;Southern Style Crispy Chicken Sandwich;430;19;43;2;21;0.91
+0;food;Sandwiches/Burgers;McChicken;360;16;40;2;14;0.8
+0;food;Sandwiches/Burgers;Bacon Cheddar McChicken;480;24;43;2;22;1.26
+0;food;Sandwiches/Burgers;Bacon Buffalo Ranch McChicken;430;21;41;2;20;1.26
+0;food;Sandwiches/Burgers;Buffalo Ranch McChicken;360;16;40;2;14;0.99
+0;food;Sandwiches/Burgers;Premium McWrap Chicken & Bacon (Crispy Chicken);630;32;56;3;32;1.54
+0;food;Sandwiches/Burgers;Premium McWrap Chicken & Bacon (Grilled Chicken);480;19;42;3;36;1.37
+0;food;Sandwiches/Burgers;Premium McWrap Chicken & Ranch (Crispy Chicken);610;31;56;3;27;1.34
+0;food;Sandwiches/Burgers;Premium McWrap Chicken & Ranch (Grilled Chicken);450;18;42;3;30;1.17
+0;food;Sandwiches/Burgers;Premium McWrap Southwest Chicken (Crispy Chicken);670;33;68;5;27;1.48
+0;food;Sandwiches/Burgers;Premium McWrap Southwest Chicken (Grilled Chicken);520;20;55;5;31;1.32
+0;food;Sandwiches/Burgers;Premium McWrap Chicken Sweet Chili (Crispy Chicken);540;23;61;3;23;1.26
+0;food;Sandwiches/Burgers;Premium McWrap Chicken Sweet Chili (Grilled Chicken);380;10;47;3;27;1.09
+0;food;Sandwiches/Burgers;Chicken McNuggets (4 piece);190;12;12;1;9;0.36
+0;food;Sandwiches/Burgers;Chicken McNuggets (6 piece);280;18;18;1;13;0.54
+0;food;Sandwiches/Burgers;Chicken McNuggets (10 piece);470;30;30;2;22;0.9
+0;food;Sandwiches/Burgers;Chicken McNuggets (20 piece);940;59;59;3;44;1.8
+0;food;Sandwiches/Burgers;Chicken McNuggets (40 piece);1880;118;118;6;87;3.6
+0;food;Sandwiches/Burgers;Filet-O-Fish;390;19;39;2;15;0.59
 0;food;Salads;Premium Bacon Ranch Salad (without Chicken);140;7;10;3;9;0.3
 0;food;Salads;Premium Bacon Ranch Salad with Crispy Chicken;380;21;22;2;25;0.86
 0;food;Salads;Premium Bacon Ranch Salad with Grilled Chicken;220;8;8;2;29;0.69
