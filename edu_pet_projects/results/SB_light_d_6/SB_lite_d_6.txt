@@ -1,0 +1,6 @@
+('Bakery', 'Cold Drinks')
+('Bakery', 'Hot Drinks')
+('Cold Sandwiches', 'Cold Drinks')
+('Cold Sandwiches', 'Hot Drinks')
+('Warm Sandwiches', 'Cold Drinks')
+('Warm Sandwiches', 'Hot Drinks')

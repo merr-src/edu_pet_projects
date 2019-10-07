@@ -1,0 +1,8 @@
+('Soups', 'Cold Drinks')
+('Soups', 'Hot Drinks')
+('Salads', 'Cold Drinks')
+('Salads', 'Hot Drinks')
+('Protein Boxes & Bowls', 'Cold Drinks')
+('Protein Boxes & Bowls', 'Hot Drinks')
+('Hot Breakfast', 'Cold Drinks')
+('Hot Breakfast', 'Hot Drinks')

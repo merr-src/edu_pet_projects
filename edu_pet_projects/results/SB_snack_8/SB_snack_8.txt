@@ -1,0 +1,8 @@
+('Meat & Cheese', 'Cold Drinks')
+('Meat & Cheese', 'Hot Drinks')
+('Snack Bars', 'Cold Drinks')
+('Snack Bars', 'Hot Drinks')
+('Fruit & Nuts', 'Cold Drinks')
+('Fruit & Nuts', 'Hot Drinks')
+('Popcorn & Chips', 'Cold Drinks')
+('Popcorn & Chips', 'Hot Drinks')

@@ -1,0 +1,4 @@
+('Salads', 'Cold Drinks')
+('Salads', 'Hot Drinks')
+('Chiken Snacks', 'Cold Drinks')
+('Chiken Snacks', 'Hot Drinks')

@@ -1,0 +1,8 @@
+('Chiken Snacks', 'Sweets/Desserts', 'Cold Drinks')
+('Chiken Snacks', 'Sweets/Desserts', 'Hot Drinks')
+('Chiken Snacks', 'Sweets/Snacks', 'Cold Drinks')
+('Chiken Snacks', 'Sweets/Snacks', 'Hot Drinks')
+('Snacks', 'Sweets/Desserts', 'Cold Drinks')
+('Snacks', 'Sweets/Desserts', 'Hot Drinks')
+('Snacks', 'Sweets/Snacks', 'Cold Drinks')
+('Snacks', 'Sweets/Snacks', 'Hot Drinks')
