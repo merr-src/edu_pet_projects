@@ -1,8 +1,0 @@
-('Salads', 'Chiken Snacks', 'Cold Drinks')
-('Salads', 'Chiken Snacks', 'Hot Drinks')
-('Salads', 'Snacks', 'Cold Drinks')
-('Salads', 'Snacks', 'Hot Drinks')
-('Chiken Snacks', 'Chiken Snacks', 'Cold Drinks')
-('Chiken Snacks', 'Chiken Snacks', 'Hot Drinks')
-('Chiken Snacks', 'Snacks', 'Cold Drinks')
-('Chiken Snacks', 'Snacks', 'Hot Drinks')

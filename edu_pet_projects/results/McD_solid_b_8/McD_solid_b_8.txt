@@ -1,8 +1,0 @@
-('Hot Big Breakfast', 'Cold Drinks')
-('Hot Big Breakfast', 'Hot Drinks')
-('Hot Breakfast', 'Cold Drinks')
-('Hot Breakfast', 'Hot Drinks')
-('Sandwiches', 'Cold Drinks')
-('Sandwiches', 'Hot Drinks')
-('Burgers', 'Cold Drinks')
-('Burgers', 'Hot Drinks')
